@@ -1,4 +1,4 @@
 # Spam Filter (Logistic Regression)
-Logistic Regression for span filter
+Logistic Regression for spam filter
 
 Status: Open
